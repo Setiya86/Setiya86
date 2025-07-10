@@ -44,20 +44,20 @@
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caturdarma&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Setiya86&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caturdarma&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Setiya86&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caturdarma&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setiya86&layout=compact&theme=tokyonight" />
 </p>
 
 ```
 ─────────────────────────────────────────────
 📫 Contact Scrolls
 
-📧 Email    : catursdarma@email.com  
-🔗 LinkedIn : https://linkedin.com/in/caturdarma  
-📸 IG       : https://instagram.com/catur.darma
+📧 Email    : catursetiya89@email.com  
+🔗 LinkedIn : https://www.linkedin.com/in/catur-setiya-darma-83aa742b2
+📸 IG       : https://www.instagram.com/setya_dhrm?igsh=aWh6Y2J4NG9kbng4
 
 ─────────────────────────────────────────────
 🏁 Quest Log
