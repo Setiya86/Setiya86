@@ -19,16 +19,14 @@
 > "Currently grinding Laravel, React & Next.js while preparing for internship quests..."
 
 ## 🧪 Skill Stats (Animated)
-
 | Skill            | Level |
 |------------------|-------|
-| 💻 Frontend       | <img src="https://progress-bar.dev/75/?title=Frontend&width=200&color=38BDF8" alt="frontend" /> |
-| 🖥️ Backend        | <img src="https://progress-bar.dev/50/?title=Backend&width=200&color=F59E0B" alt="backend" /> |
-| 🎨 UI/UX Design   | <img src="https://progress-bar.dev/50/?title=UI%2FUX&width=200&color=8B5CF6" alt="uiux" /> |
-| 🔧 DevOps         | <img src="https://progress-bar.dev/30/?title=DevOps&width=200&color=10B981" alt="devops" /> |
-| 🗄️ Database       | <img src="https://progress-bar.dev/50/?title=Database&width=200&color=EC4899" alt="database" /> |
+| 💻 Frontend       | ![75%](https://progress-bar.dev/75/?title=Frontend) |
+| 🖥️ Backend        | ![65%](https://progress-bar.dev/65/?title=Backend) |
+| 🎨 UI/UX Design   | ![50%](https://progress-bar.dev/50/?title=UI%2FUX) |
+| 🔧 DevOps         | ![30%](https://progress-bar.dev/30/?title=DevOps) |
+| 🗄️ Database       | ![60%](https://progress-bar.dev/60/?title=Database) |
 
-```
 
 ─────────────────────────────────────────────
 📦 Inventory (Tech Stack)
