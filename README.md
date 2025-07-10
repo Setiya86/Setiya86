@@ -3,7 +3,7 @@
 <p align="center"><i>Mahasiswa Sistem Informasi | Web Developer | Adventurer in Code Realm</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caturdarma&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Setiya86&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 ```
