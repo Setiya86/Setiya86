@@ -21,11 +21,15 @@
 ─────────────────────────────────────────────
 🧪 Skill Stats
 
-💻 Frontend     █████░░░░░░░  50%  
-🖥️ Backend      █████████░░░  75%  
-🎨 UI/UX Design █████░░░░░░░  50%  
-🔧 DevOps       ███░░░░░░░░░  30%  
-🗄️ Database     █████░░░░░░░  50%
+| Skill            | Level |
+|------------------|-------|
+| 💻 Frontend       | <img src="https://progress-bar.dev/75/?title=Frontend&width=200&color=38BDF8" alt="frontend" /> |
+| 🖥️ Backend        | <img src="https://progress-bar.dev/50/?title=Backend&width=200&color=F59E0B" alt="backend" /> |
+| 🎨 UI/UX Design   | <img src="https://progress-bar.dev/50/?title=UI%2FUX&width=200&color=8B5CF6" alt="uiux" /> |
+| 🔧 DevOps         | <img src="https://progress-bar.dev/30/?title=DevOps&width=200&color=10B981" alt="devops" /> |
+| 🗄️ Database       | <img src="https://progress-bar.dev/50/?title=Database&width=200&color=EC4899" alt="database" /> |
+
+```
 
 ─────────────────────────────────────────────
 📦 Inventory (Tech Stack)
