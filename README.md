@@ -17,10 +17,9 @@ Halo! Saya Catur, mahasiswa aktif Sistem Informasi yang sedang mendalami backend
 
 | Skill            | Level |
 |------------------|-------|
-| 💻 Frontend       | ![75%](https://progress-bar.dev/75/?title=Frontend) |
+| 💻 Frontend       | ![50%](https://progress-bar.dev/50/?title=Frontend) |
 | 🖥️ Backend        | ![65%](https://progress-bar.dev/65/?title=Backend) |
 | 🎨 UI/UX Design   | ![50%](https://progress-bar.dev/50/?title=UI%2FUX) |
-| 🔧 DevOps         | ![30%](https://progress-bar.dev/30/?title=DevOps) |
 | 🗄️ Database       | ![60%](https://progress-bar.dev/60/?title=Database) |
 
 ---
