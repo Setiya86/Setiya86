@@ -18,8 +18,7 @@
 💬 Status Log  
 > "Currently grinding Laravel, React & Next.js while preparing for internship quests..."
 
-─────────────────────────────────────────────
-🧪 Skill Stats
+## 🧪 Skill Stats (Animated)
 
 | Skill            | Level |
 |------------------|-------|
