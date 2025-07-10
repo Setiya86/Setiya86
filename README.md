@@ -15,12 +15,10 @@ Halo! Saya Catur, mahasiswa aktif Sistem Informasi yang sedang mendalami backend
 
 ## 🧪 Statistik Skill
 
-| Skill            | Level |
-|------------------|-------|
-| 💻 Frontend       | ![50%](https://progress-bar.dev/50/?title=Frontend) |
-| 🖥️ Backend        | ![65%](https://progress-bar.dev/65/?title=Backend) |
-| 🎨 UI/UX Design   | ![50%](https://progress-bar.dev/50/?title=UI%2FUX) |
-| 🗄️ Database       | ![60%](https://progress-bar.dev/60/?title=Database) |
+![Frontend](https://img.shields.io/badge/Frontend-50%25-blue)  
+![Backend](https://img.shields.io/badge/Backend-65%25-yellow)  
+![UI/UX](https://img.shields.io/badge/UI%2FUX-50%25-purple)  
+![Database](https://img.shields.io/badge/Database-60%25-pink)
 
 ---
 
